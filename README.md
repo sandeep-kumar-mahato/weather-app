@@ -23,9 +23,9 @@ This is a simple Weather App built with React.js that fetches weather data from 
 
 ## Running the Application
 1. After installing dependencies, start the development server:
-   - Using npm: `npm start`
+   - Using npm: `npm run dev`
    - Using yarn: `yarn start`
-2. Open your browser and go to `http://localhost:3000` to view the Weather App.
+2. Open your browser and go to `http://localhost:5173/` to view the Weather App.
 3. Enter a city name in the input field and click on "Get Weather" to fetch weather data for that city.
 
 ## Additional Notes
